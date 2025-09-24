@@ -1,4 +1,3 @@
-### Theory
 
 An **Intrusion Prevention System (IPS)** is a security tool that actively monitors network traffic for malicious activity. It analyzes data in real-time to identify known attack patterns, unusual behavior, and other threats. When an attack is detected, the IPS takes immediate action to block it, safeguarding the network and its resources. IPS solutions can be deployed at the network perimeter, in the data center, or on individual endpoints, making them a crucial part of modern cybersecurity.
 
