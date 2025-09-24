@@ -1,4 +1,3 @@
-### Procedure
 
 1. In this experiment, you will learn how to configure a **firewall** to block traffic from specific ports from a server to a client.
 
