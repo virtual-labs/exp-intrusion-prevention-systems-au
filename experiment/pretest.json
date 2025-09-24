@@ -2,37 +2,36 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The layer at which a packet filter firewall filters packets is __________ ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Physical",
+        "b": "Data link",
+        "c": "Network",
+        "d": "Application"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The firewall type that is connected in the middle of the computer and the network linking to the internet is ____________ ",
+      "answers": {
+        "a": "Hardware Firewall",
+        "b": "Software Firewall",
+        "c": "Stateful Inspection Firewall",
+        "d": "Microsoft Firewall"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A firewall analyzes _________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Packet headers",
+        "b": "Packet payloads",
+        "c": "User behavior",
+        "d": "Application code"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
